@@ -1,0 +1,43 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../../Desktop/sams-react-app"
+		},
+		{
+			"path": "../../../../Desktop/express-server"
+		},
+		{
+			"path": "../../../../Desktop/mern-project"
+		},
+		{
+			"path": "../../../../Desktop/weather-api"
+		},
+		{
+			"path": "../../../../Documents/JavaScriptCN /mongo-db-challenge"
+		},
+		{
+			"path": "../../../../Desktop/chuck-norris-jokes"
+		},
+		{
+			"path": "../../../../Desktop/nodejs-website"
+		},
+		{
+			"path": "../../../../Desktop/node-chuck-norris-api"
+		},
+		{
+			"path": "../../../../Desktop/React-Calculator"
+		},
+		{
+			"path": "../../../../Documents/JavaScriptCN /week4/3-Wednesday/KEYCODE"
+		},
+		{
+			"path": "../../../../Documents/JavaScriptCN "
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2-JS-basics"
+	}
+}
